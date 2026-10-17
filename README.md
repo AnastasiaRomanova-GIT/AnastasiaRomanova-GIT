@@ -20,7 +20,7 @@ Current interests:
 A Unix shell implemented in C, including parsing, pipes, redirections,
 environment expansion, built-ins and signal handling.
 
-### IRC Server
+### [IRC Server](../IRC) 
 IRC server in C++ with command parsing, client state management
 and protocol handling.
 
