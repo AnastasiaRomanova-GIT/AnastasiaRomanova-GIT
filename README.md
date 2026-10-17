@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Anastasia
 
-<!--
-**AnastasiaRomanova-GIT/AnastasiaRomanova-GIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+42 Prague Core student with a background in scientific research and data analysis.
 
-Here are some ideas to get you started:
+I work mainly with:
+- C / C++
+- Python
+- Linux / Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current interests:
+- data analysis
+- automation
+- UX/HMI
+- technical product work
+- systems programming
+
+## Selected projects
+
+### Minishell
+A Unix shell implemented in C, including parsing, pipes, redirections,
+environment expansion, built-ins and signal handling.
+
+### IRC Server
+IRC server in C++ with command parsing, client state management
+and protocol handling.
+
+### PmergeMe
+Implementation of the Ford–Johnson merge-insertion sorting algorithm
+using both `std::vector` and `std::list`.
+
+## Background
+
+Before 42 Prague, I worked in scientific research in physics and chemistry,
+including numerical data processing and visualization with Python and MATLAB.
+
+## Links
+
+- LinkedIn: https://www.linkedin.com/in/anastasia-o-romanova
