@@ -25,9 +25,8 @@ compared to the originally evaluated project for better flow and some bug fixes.
 IRC server in C++ with command parsing, client state management
 and protocol handling.
 
-### PmergeMe
-Implementation of the Ford–Johnson merge-insertion sorting algorithm
-using both `std::vector` and `std::list`.
+### [CPP09](https://github.com/AnastasiaRomanova-GIT/CPP09)
+The final CPP module, which explores C++ containers (map, stack, vector and list)
 
 ## Background
 
