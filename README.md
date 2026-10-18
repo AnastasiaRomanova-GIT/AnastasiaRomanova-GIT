@@ -16,9 +16,10 @@ Current interests:
 
 ## Selected projects
 
-### Minishell
+### [Minishell](https://github.com/AnastasiaRomanova-GIT/minishell)
 A Unix shell implemented in C, including parsing, pipes, redirections,
-environment expansion, built-ins and signal handling.
+environment expansion, built-ins and signal handling. The parsing part refactored 
+compared to the originally evaluated project for better flow and some bug fixes. 
 
 ### [IRC Server](https://github.com/AnastasiaRomanova-GIT/IRC) 
 IRC server in C++ with command parsing, client state management
