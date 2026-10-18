@@ -10,7 +10,7 @@ I work mainly with:
 Current interests:
 - data analysis
 - automation
-- UX/HMI
+- UI (currently in Transcendence)
 - technical product work
 - systems programming
 
